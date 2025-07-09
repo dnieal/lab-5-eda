@@ -8,7 +8,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/dnieal/lab-5-eda.git
-cd lab-4-pkg.git
+cd lab-5-pkg.git
 ```
 
 Use pip to create an editable installation
